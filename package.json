@@ -1,0 +1,24 @@
+{
+  "name": "alsaydali.github.io",
+  "version": "1.0.0",
+  "description": "My Personal Website that hosted on Github pages. ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alsaydali/alsaydali.github.io.git"
+  },
+  "keywords": [
+    "HTML",
+    "CSS",
+    "Javascript"
+  ],
+  "author": "Marwan Alsaydali",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alsaydali/alsaydali.github.io/issues"
+  },
+  "homepage": "https://github.com/alsaydali/alsaydali.github.io#readme"
+}
